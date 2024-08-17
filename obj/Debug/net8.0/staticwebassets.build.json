@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "uWSXbGwIRX8iw0RUubI1k57c6zuKS6SybVBo48JdfgY=",
+  "Hash": "2uY7Kpt3r/b1I0voiUEqKBjLhxO094+8GSP35PDrzAY=",
   "Source": "Lab1",
   "BasePath": "_content/Lab1",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lab1\\wwwroot",
+      "Source": "Lab1",
+      "ContentRoot": "C:\\Users\\user\\Summer 2024\\Backend Sessions\\FirstAPI\\BeLab1\\Lab1\\wwwroot\\",
+      "BasePath": "_content/Lab1",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }
